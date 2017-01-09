@@ -1,3 +1,3 @@
 <?php
-echo "Works PHP!!"
+echo "Works PHP!! YAY"
 ?>
